@@ -1,0 +1,13 @@
+Options -Indexes
+<Files "evercookie_cache.php">
+  Order Allow,Deny
+  Allow from all
+</Files>
+<Files "evercookie_etag.php">
+  Order Allow,Deny
+  Allow from all
+</Files>
+<Files "evercookie_png.php">
+  Order Allow,Deny
+  Allow from all
+</Files>

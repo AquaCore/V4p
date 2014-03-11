@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<languageimport>
+	<wordgroup language="en">
+		<word namespace="plugin-v4p" key="v4p">Vote for Points</word>
+		<word namespace="plugin-v4p" key="id">ID</word>
+		<word namespace="plugin-v4p" key="image">Image</word>
+		<word namespace="plugin-v4p" key="title">Title</word>
+		<word namespace="plugin-v4p" key="url">URL</word>
+		<word namespace="plugin-v4p" key="evercookie">Evercookie</word>
+		<word namespace="plugin-v4p" key="credits">Credits</word>
+		<word namespace="plugin-v4p" key="interval">Interval</word>
+		<word namespace="plugin-v4p" key="date">Date</word>
+		<word namespace="plugin-v4p" key="voting-options">Voting Options</word>
+		<word namespace="plugin-v4p" key="add-site">Add Site</word>
+		<word namespace="plugin-v4p" key="save-order">Save Order</word>
+		<word namespace="plugin-v4p" key="confirm-delete-s">Are you sure you want to remove this voting site?</word>
+		<word namespace="plugin-v4p" key="confirm-delete-p">Are you sure you want to remove these voting sites?</word>
+		<word namespace="plugin-v4p" key="delete">Delete</word>
+		<word namespace="plugin-v4p" key="votes-total">Total Votes</word>
+		<word namespace="plugin-v4p" key="votes-today">Votes Today</word>
+		<word namespace="plugin-v4p" key="x-hours"><![CDATA[<span>%s</span> hours]]></word>
+		<word namespace="plugin-v4p" key="edit">Edit</word>
+		<word namespace="plugin-v4p" key="vote-for-points">Vote for Points</word>
+		<word namespace="plugin-v4p" key="untitled"><![CDATA[<i>Untitled</i>]]></word>
+		<word namespace="plugin-v4p" key="site-added"><![CDATA[Site <b>%s</b> has been added successfully.]]></word>
+		<word namespace="plugin-v4p" key="site-not-added">Failed to add voting site.</word>
+		<word namespace="plugin-v4p" key="x-deleted">%s voting sites removed.</word>
+		<word namespace="plugin-v4p" key="saved"><![CDATA[Changes to <b>%s</b> have been saved.]]></word>
+		<word namespace="plugin-v4p" key="site-deleted">Voting site removed.</word>
+		<word namespace="plugin-v4p" key="v4p-log">Vote for Points Log</word>
+		<word namespace="plugin-v4p" key="voting-site">Voting Site</word>
+		<word namespace="plugin-v4p" key="countdown"><![CDATA[You will be redirected to <a href="%s">%s</a> in <span id="v4p-countdown">%d</span> seconds.]]></word>
+		<word namespace="plugin-v4p" key="thank-you">Thank you for your vote!</word>
+		<word namespace="plugin-v4p" key="login-required">You must be logged in in order to receive credits.</word>
+		<word namespace="plugin-v4p" key="lvl-requirement-s">You must have at least %d character level %d or higher to receive credits from voting.</word>
+		<word namespace="plugin-v4p" key="lvl-requirement-p">You must have at least %d characters level %d or higher to receive credits from voting.</word>
+		<word namespace="plugin-v4p" key="already-voted">You have voted within the last %d hours.</word>
+		<word namespace="plugin-v4p" key="last-vote"><![CDATA[Last vote: %s<p/>You have already voted within the last %d hours.]]></word>
+		<word namespace="admin-menu" key="v4p">Vote for Points</word>
+		<word namespace="admin-menu" key="v4p-sites">Sites</word>
+		<word namespace="admin-menu" key="v4p-log">Votes</word>
+	</wordgroup>
+	<wordgroup language="pt-BR">
+		<word namespace="plugin-v4p" key="v4p">Vote por Pontos</word>
+		<word namespace="plugin-v4p" key="id">ID</word>
+		<word namespace="plugin-v4p" key="image">Imagem</word>
+		<word namespace="plugin-v4p" key="title">Título</word>
+		<word namespace="plugin-v4p" key="url">URL</word>
+		<word namespace="plugin-v4p" key="evercookie">Evercookie</word>
+		<word namespace="plugin-v4p" key="credits">Créditos</word>
+		<word namespace="plugin-v4p" key="interval">Intervalo</word>
+		<word namespace="plugin-v4p" key="date">Data</word>
+		<word namespace="plugin-v4p" key="voting-options">Opções de voto</word>
+		<word namespace="plugin-v4p" key="add-site">Adicionar Site</word>
+		<word namespace="plugin-v4p" key="save-order">Salvar Ordem</word>
+		<word namespace="plugin-v4p" key="delete">Deletar</word>
+        <word namespace="plugin-v4p" key="confirm-delete-s">Tem certeza que deseja remover este site?</word>
+        <word namespace="plugin-v4p" key="confirm-delete-p">Tem certeza the deseja remover estes sites?</word>
+		<word namespace="plugin-v4p" key="votes-total">Total de Votos</word>
+		<word namespace="plugin-v4p" key="votes-today">Votos de Hoje</word>
+		<word namespace="plugin-v4p" key="x-hours"><![CDATA[<span>%s</span> horas]]></word>
+		<word namespace="plugin-v4p" key="edit">Editar</word>
+		<word namespace="plugin-v4p" key="vote-for-points">Vote por Pontos</word>
+		<word namespace="plugin-v4p" key="untitled"><![CDATA[<i>Sem Título</i>]]></word>
+		<word namespace="plugin-v4p" key="site-added"><![CDATA[O site <b>%s</b> foi adicionado com sucesso.]]></word>
+		<word namespace="plugin-v4p" key="site-not-added">Falha ao adicionar site.</word>
+		<word namespace="plugin-v4p" key="x-deleted">%s sites removidos.</word>
+		<word namespace="plugin-v4p" key="saved"><![CDATA[Mudanças a <b>%s</b> foram salvas.]]></word>
+		<word namespace="plugin-v4p" key="site-deleted">Site removido.</word>
+		<word namespace="plugin-v4p" key="v4p-log">Log de Votos</word>
+		<word namespace="plugin-v4p" key="voting-site">Site</word>
+		<word namespace="plugin-v4p" key="countdown"><![CDATA[Você será reciredionado para <a href="%s">%s</a> em <span id="v4p-countdown">%d</span> segundos.]]></word>
+		<word namespace="plugin-v4p" key="thank-you">Obrigado pelo seu voto!</word>
+		<word namespace="plugin-v4p" key="login-required">Você precisa fazer login para receber créditos.</word>
+		<word namespace="plugin-v4p" key="lvl-requirement-s">Você deve ter pelo menos %d personagem level %d ou maior para receber créditos de votos.</word>
+		<word namespace="plugin-v4p" key="lvl-requirement-p">Você deve ter pelo menos %d personagens level %d ou maior para receber créditos de votos.</word>
+		<word namespace="plugin-v4p" key="already-voted">Você já votou dentro das últimas %d horas.</word>
+		<word namespace="plugin-v4p" key="last-vote"><![CDATA[Voto mais recente: %s<p/>Você já votou dentro das últimas %d horas.]]></word>
+		<word namespace="admin-menu" key="v4p">Vote for Points</word>
+		<word namespace="admin-menu" key="v4p-sites">Sites</word>
+		<word namespace="admin-menu" key="v4p-log">Votos</word>
+	</wordgroup>
+</languageimport>

@@ -1,0 +1,13 @@
+.option-v4p .menu-option-icon {
+	background: transparent url('../images/admin.png') center center no-repeat;
+}
+.option-v4p:hover .menu-option-icon {
+	background: transparent url('../images/admin-h.png') center center no-repeat;
+}
+.ac-v4p-site-image {
+	text-align: center;
+}
+.ac-v4p-site-image img {
+	max-height: 50px;
+	max-width: 200px;
+}

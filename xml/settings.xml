@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pluginsettings>
+	<settings>
+		<key>evercookie</key>
+		<label>Use Evercookie</label>
+		<description>Use evercookie to detect whether a user has already voted.</description>
+		<type>checkbox</type>
+        <default>0</default>
+	</settings>
+	<settings>
+		<key>redirect_time</key>
+		<label>Redirect Time</label>
+		<description>Seconds to wait upon voting before redirecting to the voting site.</description>
+		<type>number</type>
+		<default>5</default>
+		<attr>
+			<min>0</min>
+		</attr>
+	</settings>
+	<settings>
+		<key>char_count</key>
+		<label>Characters</label>
+		<description>Minimum number of characters registered to get credit points form voting. Use 0 to disable this feature.</description>
+		<type>number</type>
+		<default>0</default>
+		<attr>
+			<min>0</min>
+		</attr>
+	</settings>
+	<settings>
+		<key>min_level</key>
+		<label>Minimum Level</label>
+		<description>Minimum level of characters registered to get credit points from voting. Use 0 to disable this feature.</description>
+		<type>number</type>
+		<default>0</default>
+		<attr>
+			<min>0</min>
+		</attr>
+	</settings>
+</pluginsettings>
